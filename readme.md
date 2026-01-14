@@ -1,7 +1,3 @@
-Here is a complete, professional **README.md** tailored for your **Iso-Norm Sparse SAM** repository. It follows the structure and style of the example you provided.
-
----
-
 # 📘 Iso-Norm Sparse SAM: Correcting Norm Collapse
 
 **A Robust Regularization Framework for High-Sparsity Optimization**
